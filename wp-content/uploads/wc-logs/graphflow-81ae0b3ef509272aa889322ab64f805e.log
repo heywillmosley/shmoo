@@ -1,0 +1,85 @@
+10-10-2015 @ 19:43:43 - Received error code 401 for API call /analytics/woocommerce/meta; Message: Invalid Client Key, API Key, or account
+10-10-2015 @ 19:45:27 - Received error code 401 for API call /analytics/woocommerce/meta; Message: Invalid Client Key, API Key, or account
+10-10-2015 @ 19:46:57 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T19:46:57.419Z] [org.apache.catalina.connector.RequestFacade@3620b408] [http-bio-8080-exec-104] [[es-live-5][inet[/10.103.130.13:9300]][indices:data/read/search]]
+10-10-2015 @ 19:47:11 - Received error code 404 for API call recommend/item/308/similar; Message: No similar items available for item ids [308], not enough data
+10-10-2015 @ 19:47:36 - Received error code 404 for API call recommend/item/308/similar; Message: No similar items available for item ids [308], not enough data
+10-10-2015 @ 19:47:46 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T19:47:46.839Z] [org.apache.catalina.connector.RequestFacade@1752b6a9] [http-bio-8080-exec-102] [[es-live-5][inet[/10.103.130.13:9300]][indices:data/read/search]]
+10-10-2015 @ 19:48:03 - Received error code 404 for API call recommend/item/323/similar; Message: No similar items available for item ids [323], not enough data
+10-10-2015 @ 19:48:24 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+10-10-2015 @ 19:55:51 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+10-10-2015 @ 20:02:44 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T20:02:44.162Z] [org.apache.catalina.connector.RequestFacade@5f2e77da] [http-bio-8080-exec-77] [[es-live-5][inet[/10.103.130.13:9300]][indices:data/read/search]]
+10-10-2015 @ 20:02:45 - Failed to get post global for product page view request: /product/start-right-light-2/
+10-10-2015 @ 20:02:54 - Failed to get post global for product page view request: /product/start-right-light-2/
+10-10-2015 @ 20:03:18 - Received error code 404 for API call recommend/item/323/similar; Message: No similar items available for item ids [323], not enough data
+10-10-2015 @ 20:03:21 - Failed to get post global for product page view request: /product/start-right-light-2/
+10-10-2015 @ 20:04:07 - Failed to get post global for product page view request: /product/start-right-light-2/
+10-10-2015 @ 20:09:14 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T20:09:14.627Z] [org.apache.catalina.connector.RequestFacade@4fbf72bd] [http-bio-8080-exec-97] [[es-live-6][inet[/10.102.0.167:9300]][indices:data/read/search]]
+10-10-2015 @ 21:18:31 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T21:18:31.011Z] [org.apache.catalina.connector.RequestFacade@714b00b7] [http-bio-8080-exec-61] [[es-live-4][inet[/10.102.0.100:9300]][indices:data/read/search]]
+10-10-2015 @ 21:18:33 - Failed to get post global for product page view request: /product/start-right-light-2/
+10-10-2015 @ 21:18:42 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T21:18:42.636Z] [org.apache.catalina.connector.RequestFacade@6a5829c6] [http-bio-8080-exec-76] [[es-live-5][inet[/10.103.130.13:9300]][indices:data/read/search]]
+10-10-2015 @ 21:24:41 - Received error code 404 for API call item/activetoggle; Message: Item with itemId=330 not found
+10-10-2015 @ 21:24:53 - Received error code 404 for API call recommend/item/330/similar; Message: No similar items available for item ids [330], not enough data
+10-10-2015 @ 21:25:49 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T21:25:49.399Z] [org.apache.catalina.connector.RequestFacade@bb64ae7] [http-bio-8080-exec-84] [[es-live-5][inet[/10.103.130.13:9300]][indices:data/read/search]]
+10-10-2015 @ 21:25:55 - Failed to get post global for product page view request: /product/start-right-light-2/
+10-10-2015 @ 21:26:00 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T21:26:00.925Z] [org.apache.catalina.connector.RequestFacade@34de430d] [http-bio-8080-exec-68] [[es-live-4][inet[/10.102.0.100:9300]][indices:data/read/search]]
+10-10-2015 @ 21:26:42 - Received error code 404 for API call recommend/item/330/similar; Message: No similar items available for item ids [330], not enough data
+10-10-2015 @ 21:26:49 - Received error code 404 for API call recommend/item/330/similar; Message: No similar items available for item ids [330], not enough data
+10-10-2015 @ 21:27:29 - Received error code 404 for API call recommend/item/330/similar; Message: No similar items available for item ids [330], not enough data
+10-10-2015 @ 21:28:18 - Received error code 404 for API call recommend/item/330/similar; Message: No similar items available for item ids [330], not enough data
+10-10-2015 @ 21:32:59 - Received error code 404 for API call item/activetoggle; Message: Item with itemId=333 not found
+10-10-2015 @ 21:33:00 - Received error code 400 for API call item/itemlist; Message: Field 'name' cannot be empty. Posted name, 
+10-10-2015 @ 21:37:06 - Received error code 404 for API call recommend/item/333/similar; Message: No similar items available for item ids [333], not enough data
+10-10-2015 @ 21:38:13 - Received error code 404 for API call recommend/item/333/similar; Message: No similar items available for item ids [333], not enough data
+10-10-2015 @ 21:38:20 - Received error code 404 for API call recommend/item/333/similar; Message: No similar items available for item ids [333], not enough data
+10-10-2015 @ 21:38:29 - Received error code 404 for API call recommend/item/333/similar; Message: No similar items available for item ids [333], not enough data
+10-10-2015 @ 21:38:38 - Received error code 404 for API call recommend/item/333/similar; Message: No similar items available for item ids [333], not enough data
+10-10-2015 @ 21:38:54 - Received error code 404 for API call recommend/item/333/similar; Message: No similar items available for item ids [333], not enough data
+10-10-2015 @ 21:39:00 - Received error code 404 for API call recommend/item/333/similar; Message: No similar items available for item ids [333], not enough data
+10-10-2015 @ 21:39:49 - Received error code 404 for API call recommend/item/333/similar; Message: No similar items available for item ids [333], not enough data
+10-10-2015 @ 21:42:31 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-10T21:42:31.594Z] [org.apache.catalina.connector.RequestFacade@7a924f94] [http-bio-8080-exec-94] [[es-live-4][inet[/10.102.0.100:9300]][indices:data/read/search]]
+10-11-2015 @ 00:32:14 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-11T00:32:14.352Z] [org.apache.catalina.connector.RequestFacade@548ac28e] [http-bio-8080-exec-91] [[es-live-6][inet[/10.102.0.167:9300]][indices:data/read/search]]
+10-11-2015 @ 01:54:08 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-11T01:54:08.404Z] [org.apache.catalina.connector.RequestFacade@34de430d] [http-bio-8080-exec-17] [[es-live-6][inet[/10.102.0.167:9300]][indices:data/read/search]]
+10-11-2015 @ 02:03:05 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-11T02:03:05.300Z] [org.apache.catalina.connector.RequestFacade@226021f3] [http-bio-8080-exec-55] [[es-live-5][inet[/10.103.130.13:9300]][indices:data/read/search]]
+10-11-2015 @ 02:46:20 - Received error code 500 for API call /recommend/user/1; Message: We encountered an unexpected error. Please contact support@graphflow.com and include this message: [2015-10-11T02:46:20.170Z] [org.apache.catalina.connector.RequestFacade@7a924f94] [http-bio-8080-exec-93] [[es-live-5][inet[/10.103.130.13:9300]][indices:data/read/search]]
+10-11-2015 @ 09:06:41 - Failed to get post global for product page view request: /product/start-right-light-2/
+10-16-2015 @ 23:20:32 - gf_anon temp id empty for alias call. Request: /wp-login.php
+11-29-2015 @ 22:19:06 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+12-10-2015 @ 06:54:14 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+12-10-2015 @ 22:43:39 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+12-12-2015 @ 09:22:34 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+12-12-2015 @ 19:10:39 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+12-14-2015 @ 00:32:10 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+12-14-2015 @ 06:40:17 - Received error code 404 for API call recommend/item/321/similar; Message: No similar items available for item ids [321], not enough data
+12-15-2015 @ 03:25:02 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-16-2015 @ 02:54:01 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-16-2015 @ 04:30:52 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-16-2015 @ 18:35:11 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-18-2015 @ 04:19:29 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-19-2015 @ 10:25:55 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-21-2015 @ 03:15:29 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-21-2015 @ 03:31:34 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-21-2015 @ 19:15:26 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-24-2015 @ 04:50:50 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-25-2015 @ 17:15:16 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-25-2015 @ 19:59:48 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-26-2015 @ 02:31:42 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-26-2015 @ 04:04:48 - Received error code 402 for API call recommend/item/321/similar; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-26-2015 @ 11:22:34 - Encountered error calling Graphflow API. Message: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+12-27-2015 @ 02:49:10 - Received error code 402 for API call /user/alias; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/
+12-30-2015 @ 13:34:27 - Received error code 402 for API call /user/alias; Message: Your trial has expired, please upgrade your account at https://app.graphflow.com/dashboard/account/

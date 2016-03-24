@@ -1,0 +1,101 @@
+.pano-btn {
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-weight: bold;
+    text-decoration: none;
+    border: 0px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.pano-btn-primary {
+    background: #2a3542;
+    color: #fff !important;
+}
+
+.pano-btn-primary:hover {
+    background: #666;
+}
+
+.psp-upload-form {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.psp-upload-form li {
+    margin: 0;
+    padding: 0 0 8px 0;
+}
+
+.psp-upload-form label {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+    display: block;
+    color: #999;
+    letter-spacing: 2px;
+}
+
+.psp-upload-form label.error {
+    letter-spacing: 0px;
+    text-transform: none;
+    background: #bb3232;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.psp-upload-form input[type=text] {
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding: 3%;
+    width: 94%;
+}
+
+.psp-web-address-field,
+.psp-upload-file-field {
+    display: none;
+}
+
+.pano-add-file-btn {
+    margin-top: 15px !important;
+}
+
+.pano-modal {
+    display: none;
+    position: fixed;
+    z-index:100;
+    margin-top: 50px;
+    left: 50%;
+    margin-left: -150px;
+    width:300px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    border: 10px solid #ccc;
+    box-shadow: 0 0 30px rgba(0,0,0,.1);
+}
+
+.pano-modal h2 {
+    text-align: center;
+    margin: -20px -20px 20px -20px;
+    background: #3299bb;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.pano-modal-add-btn {
+    margin: 20px -20px -20px -20px;
+    text-align: center;
+    background: #ccc;
+    padding: 10px 0 0;
+
+}
+
+.pano-modal-add-btn .pano-btn {
+    margin-right: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px
+}
